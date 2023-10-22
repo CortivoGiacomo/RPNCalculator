@@ -42,6 +42,6 @@ Se desideri contribuire a questo progetto, non esitare a creare un fork della re
 ## Contatti
 
 - Autore: Cortivo Giacomo
-- Email: [giacomocortivo1@gmail.com
+- Email: giacomocortivo1@gmail.com
 
 Grazie per aver utilizzato la Calcolatrice Java.
