@@ -39,13 +39,9 @@ Questo progetto è una calcolatrice in Java che offre due modalità di calcolo: 
 
 Se desideri contribuire a questo progetto, non esitare a creare un fork della repository, apportare le tue modifiche e inviare una pull request.
 
-## Licenza
-
-Questo progetto è concesso in licenza con l'uso di una licenza MIT. Per ulteriori dettagli, consulta il file [LICENSE](LICENSE).
-
 ## Contatti
 
-- Autore: [Il tuo nome]
-- Email: [tua@email.com]
+- Autore: Cortivo Giacomo
+- Email: [giacomocortivo1@gmail.com
 
-Grazie per aver utilizzato la Calcolatrice Java con Interfaccia Grafica!
+Grazie per aver utilizzato la Calcolatrice Java.
